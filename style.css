@@ -1,0 +1,108 @@
+/* project start */
+
+/* header section start */
+
+/* .pageEN > #header {
+  display: flex;
+  align-items: center;
+  gap: 260px;
+  justify-content: center;
+}
+.pageEN > #header > .header__left > img {
+  width: 29px;
+  height: 29px;
+  flex-shrink: 0;
+}
+.pageEN > #header > .header__left > p {
+  color: #201f1f;
+  font-family: Poppins;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%;
+}
+.pageEN > #header > .header__left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.pageEN > #header > .header__right {
+  width: 31px;
+  height: 29px;
+  flex-shrink: 0;
+  border-radius: 3px;
+  background: #201f1f;
+  text-align: center;
+  cursor: pointer;
+}
+.pageEN > #header > .header__right > .header__rightP {
+  color: #fffefe;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%;
+  margin: auto;
+} */
+/* header section end */
+
+/* ============= */
+
+/* online section start */
+/* 
+.pageEN > #online > .online__top {
+  display: flex;
+  justify-content: center;
+}
+.pageEN > #online > .online__top > img {
+  margin-top: -40px;
+}
+.pageEN > #online > .online__middle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -30px;
+}
+.pageEN > #online > .online__middle > svg {
+  width: 67.076px;
+  height: 33.425px;
+  transform: rotate(4.535deg);
+  flex-shrink: 0;
+  fill: #ff8801;
+  position: absolute;
+}
+.pageEN > #online > .online__middle > span {
+  color: #fffefe;
+  font-family: Poppins;
+  font-size: 12px;
+  position: absolute;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.48px;
+  text-transform: uppercase;
+}
+.pageEN > #online > .online__middle > .online__middleH3 {
+  width: 345px;
+  color: #201f1f;
+  text-align: center;
+  font-family: Andika;
+  font-size: 24px;
+  font-style: normal;
+  margin-top: 200px;
+  font-weight: 400;
+  line-height: 113.3%;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+}
+ */
+/* online section end */
+
+.hide {
+  display: none;
+}
+#hide {
+  display: none;
+}
+/* project end */

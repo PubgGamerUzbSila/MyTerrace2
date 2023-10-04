@@ -1,0 +1,15 @@
+/* SouthMiami section start */
+
+#southMiami > .southMiami__top {
+    margin: auto;
+    text-align: center;
+}
+#southMiami > .southMiami__top > .southMiami__top__svg__1 {
+    margin-left: -150px;
+    margin-top: 20px;
+}
+#southMiami > .southMiami__top > .southMiami__top__svg__2 {
+    margin-right: -130px;
+}
+
+/* SouthMiami section end */
